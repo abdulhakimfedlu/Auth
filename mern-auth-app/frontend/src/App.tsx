@@ -5,6 +5,7 @@ import SignUpPage from "./pages/SignUp";
 import Dashboard from "./pages/Dashboard";
 import { SignedIn, SignedOut } from "@clerk/clerk-react";
 
+
 function App() {
   return (
     <BrowserRouter>
